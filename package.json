@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Vivekyd6/NodeJs/issues"
   },
-  "homepage": "https://github.com/Vivekyd6/NodeJs#readme"
+  "homepage": "https://github.com/Vivekyd6/NodeJs#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
 }
