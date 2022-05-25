@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Vivekyd6/NodeJs#readme",
   "dependencies": {
+    "express": "^4.18.1",
+    "install": "^0.13.0",
+    "npm": "^8.10.0",
     "superheroes": "^3.0.0",
     "supervillains": "^3.0.0"
   }
