@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is an intro to node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivekyd6/NodeJs.git"
+  },
+  "author": "Vivek Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vivekyd6/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Vivekyd6/NodeJs#readme"
+}
